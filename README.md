@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ihydra-pk
-- 👀 I’m interested in C,C++,Javascript,React.
-- 🌱 I’m currently learning React Frontend Web Development.
+- 👀 I’m interested in AWS,C,JAVA,Javascript,React.
+- 🌱 I’m currently learning JAVA J2EE.
 - 💞️ I’m looking to collaborate on various projects which are challenging to assist me in my career growth.
-- 📫 Reach me on Linkdin:https://www.linkedin.com/in/pawan-ravish-17aaab179 
+- 📫 Reach me on Linkdin:https://www.linkedin.com/in/pawan-ravish 
 
 <!---
 ihydra-pk/ihydra-pk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
